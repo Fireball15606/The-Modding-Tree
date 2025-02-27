@@ -26,6 +26,7 @@ addLayer("p", {
     ],
     layerShown(){return true},
     upgrades: {
+        
         11: {
             title: "a beginning?",
             description: "Double your pint gain",

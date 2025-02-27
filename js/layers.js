@@ -33,4 +33,3 @@ addLayer("p", {
         },
     },
 })
-if (hasUpgrade('p', 11)) gain = gain.times(2)

@@ -30,6 +30,6 @@ addLayer("p", {
             title: "a beginning?",
             description: "Double your pint gain",
             cost: new Decimal(1),
-        }
+        },
     },
 })
